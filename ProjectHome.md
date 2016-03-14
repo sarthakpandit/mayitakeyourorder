@@ -1,0 +1,1 @@
+May I take your order? is a django app, written mostly for myself. It is used to centralize lunch orders in small company and provide a list of dishes for someone who willing to call restaurant.
